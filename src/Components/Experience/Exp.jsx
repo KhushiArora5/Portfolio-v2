@@ -1,5 +1,5 @@
 import React from 'react';
-import '.Exp.css';
+import './Exp.css';
 
 const Exp = () => {
   return (
