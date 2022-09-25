@@ -1,6 +1,6 @@
 header {
     height: 150vh;
-    padding-top: 7rem;
+    padding-top: 3rem;
     overflow: hidden;
 }
 
@@ -12,7 +12,7 @@ header {
 
 /* ====================== CTA ===============*/
 .cta {
-    margin-top: 2.5rem;
+    margin-top: 1.5rem;
     display: flex;
     gap: 1.2rem;
     justify-content: center;
@@ -62,14 +62,14 @@ header {
 /*============== MEDIA QUERIES(MEDIUM DEVICES) =========*/
 @media screen and (max-width: 1024px) {
     header {
-        height: 150vh;
+        height: 80vh;
     }
 }
 
 /*============== MEDIA QUERIES(SMALL DEVICES) =========*/
 @media screen and (max-width: 600px) {
     header {
-        height: 150vh;
+        height: 100vh;
     }
 
     .headers__socials,

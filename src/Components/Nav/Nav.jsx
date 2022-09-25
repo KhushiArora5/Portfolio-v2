@@ -21,8 +21,6 @@ const Nav = () => {
         <BiUserCircle/></a>
       <a href="#exp" onClick={() => setActiveNav('#exp')} className={activeNav === '#exp' ? 'active' : ''}>
         <BiBookBookmark/></a>
-      <a href="#services" onClick={() => setActiveNav('#services')} className={activeNav === '#services' ? 'active' : ''}>
-        <RiServiceLine/></a>
       <a href="#port" onClick={() => setActiveNav('#port')} className={activeNav === '#port' ? 'active' : ''}>
         <MdWork/></a>
       <a href="#contact" onClick={() => setActiveNav('#contact')} className={activeNav === '#contact' ? 'active' : ''}>

@@ -32,10 +32,13 @@ const About = () => {
           </div>
 
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-            Cum laborum, voluptatem nisi quod ex libero, sit quis molestias
-            totam, modi quas dolorem? Expedita provident error quaerat 
-            consectetur dolores et facilis?
+          A self driven IT expert seeking for the job of 
+          MERN Stack Web Developer with extensive knowledge 
+          and competence in HTML, CSS, JavaScript and 
+          mobile responsive web development and strong talents 
+          and aptitude in developing clean and efficient code. 
+          Looking to enhance my skills by taking challenging 
+          projects and expanding my knowledge.
           </p>
 
           <a href="#cntact" className="btn btn-primary">Let's Talk</a>
