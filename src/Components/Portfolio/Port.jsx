@@ -4,6 +4,7 @@ import IMG1 from '../../Assets/1.jpg';
 import IMG2 from '../../Assets/2.jpg';
 import IMG3 from '../../Assets/3.jpg';
 import IMG4 from '../../Assets/4.jpg';
+import IMG5 from '../../Assets/5.jpg';
 
 const data = [
   {
@@ -33,6 +34,13 @@ const data = [
     title: 'E-COMMERCE SWIFT',
     github: 'https://github.com/KhushiArora5/e-commerce',
     demo: 'https://superb-capybara-6f4ee8.netlify.app/'
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'SALON WEBSITE',
+    github: 'https://github.com/KhushiArora5/Salon-Website',
+    demo: 'https://cool-truffle-7df4fd.netlify.app/'
   }
 
 ]
