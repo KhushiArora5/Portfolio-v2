@@ -5,6 +5,11 @@ import IMG2 from '../../Assets/2.jpg';
 import IMG3 from '../../Assets/3.jpg';
 import IMG4 from '../../Assets/4.jpg';
 import IMG5 from '../../Assets/5.jpg';
+import IMG6 from '../../Assets/6.jpg';
+import IMG7 from '../../Assets/7.jpg';
+import IMG8 from '../../Assets/8.jpg';
+import IMG9 from '../../Assets/9.jpg';
+import IMG10 from '../../Assets/10.jpg';
 
 const data = [
   {
@@ -41,8 +46,42 @@ const data = [
     title: 'SALON WEBSITE',
     github: 'https://github.com/KhushiArora5/Salon-Website',
     demo: 'https://cool-truffle-7df4fd.netlify.app/'
-  }
-
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: 'MOON ANIMATION',
+    github: 'https://github.com/KhushiArora5/CSS_Art/tree/main/Moon',
+    demo: 'https://unique-kitsune-d10f17.netlify.app/'
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: 'DAY AND NIGHT ANIMATION',
+    github: 'https://github.com/KhushiArora5/CSS_Art/tree/main/Day%20%26%20Night',
+    demo: 'https://resplendent-bavarois-6ad7b6.netlify.app/'
+  },
+  {
+    id: 8,
+    image: IMG8,
+    title: 'CAT',
+    github: 'https://github.com/KhushiArora5/CSS_Art/tree/main/Cat',
+    demo: 'https://keen-banoffee-eae781.netlify.app/'
+  },
+  {
+    id: 9,
+    image: IMG9,
+    title: 'ASTRONAUT ANIMATION',
+    github: 'https://github.com/KhushiArora5/CSS_Art/tree/main/Astronaut',
+    demo: 'https://spectacular-frangollo-0a3baf.netlify.app/'
+  },
+  {
+    id: 10,
+    image: IMG10,
+    title: 'AMONG US',
+    github: 'https://github.com/KhushiArora5/CSS_Art/tree/main/Among_Us',
+    demo: 'https://comfy-sable-ed8026.netlify.app/'
+  },
 ]
 
 const Port = () => {
