@@ -10,6 +10,7 @@ import IMG7 from '../../Assets/7.jpg';
 import IMG8 from '../../Assets/8.jpg';
 import IMG9 from '../../Assets/9.jpg';
 import IMG10 from '../../Assets/10.jpg';
+import IMG11 from '../../Assets/11.jpg';
 
 const data = [
   {
@@ -81,6 +82,13 @@ const data = [
     title: 'AMONG US',
     github: 'https://github.com/KhushiArora5/CSS_Art/tree/main/Among_Us',
     demo: 'https://comfy-sable-ed8026.netlify.app/'
+  },
+  {
+    id: 11,
+    image: IMG11,
+    title:'MOVING CHICK ANIMATION',
+    github: 'https://github.com/KhushiArora5/CSS_Art/tree/main/Moving%20Chick',
+    demo: 'https://willowy-croissant-1cb755.netlify.app/'
   },
 ]
 
