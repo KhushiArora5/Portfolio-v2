@@ -80,14 +80,14 @@ const Exp = () => {
                 <small className='text-light'>Beginner</small>
               </div>
             </article>
-{/* 
+
             <article className="exp__details">
               <BsPatchCheckFill className="exp__details-icon"/>
               <div>
-                <h4>PHP</h4>
-                <small className='text-light'>Basic</small>
+                <h4>Express</h4>
+                <small className='text-light'>Beginner</small>
               </div>
-            </article> */}
+            </article>
           </div>
         </div>
       </div>
