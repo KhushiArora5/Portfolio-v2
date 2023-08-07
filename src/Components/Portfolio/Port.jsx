@@ -81,7 +81,7 @@ const data = [
     image: IMG10,
     title: 'AMONG US',
     github: 'https://github.com/KhushiArora5/CSS_Art/tree/main/Among_Us',
-    demo: 'https://comfy-sable-ed8026.netlify.app/'
+    demo: 'https://vocal-sprite-1fe67e.netlify.app/'
   },
   {
     id: 11,
